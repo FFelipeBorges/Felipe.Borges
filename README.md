@@ -1,5 +1,5 @@
 ## Olá :smiley:
-Sou um entusiasta de programação.
+Sou um entusiasta da programação.
 
  :blue_book:  &nbsp; Estou estudando linguagens para me tornar um Full-Stack Developer
  <br/> :bulb: &nbsp; Buscando colaborar e aprender com projetos em Front-end e Back-end
